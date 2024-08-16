@@ -41,6 +41,7 @@ If you are new to this entrepreneurial financing, these are recommended books th
 * [Guidelines for successful crowdfunding (2017)](https://doi.org/10.1016/j.procir.2017.02.021)
 * [Some Simple Economics of Crowdfunding (2014)](https://www.journals.uchicago.edu/doi/full/10.1086/674021)
 * [Individual crowdfunding practices (2013)](https://doi.org/10.1080/13691066.2013.785151)
+* [Crowdfunding and Value Creation (2015)](https://doi.org/10.1515/erj-2015-0007)
 
 There are four main types of crowdfunding: equity-based, reward-based, debt-based, and donation-based. You can check out [this article](https://stripe.com/gb/resources/more/four-types-of-crowdfunding-for-startups-and-how-to-choose-one) to understand the key characteristics of each type of crowdfunding."
 
@@ -48,6 +49,7 @@ There are four main types of crowdfunding: equity-based, reward-based, debt-base
 * [Equity crowdfunding: a systematic review of the literature (2020)](https://doi.org/10.1007/s11187-018-0081-x)
 * [Signaling in Equity Crowdfunding (2015)](https://doi.org/10.1111/etap.12157)
 * [Sustainability in equity crowdfunding (2019)](https://doi.org/10.1016/j.techfore.2018.07.014)
+* [Equity crowdfunding: First resort or last resort? (2018)](https://doi.org/10.1016/j.jbusvent.2018.04.001)
 
 ## Reward-based Crowdfunding
 * [Strategies for reward-based crowdfunding campaigns (2016)](https://doi.org/10.1016/j.jik.2016.01.010)
@@ -57,9 +59,17 @@ There are four main types of crowdfunding: equity-based, reward-based, debt-base
 * [Does the Possibility to Make Equity Investments in Crowdfunding Projects Crowd Out Reward–Based Investments? (2015)](https://doi.org/10.1111/etap.1213)
   
 ## Debt-based Crowdfunding
+* [Origins and Development of Credit-Based Crowdfunding (2019)](http://dx.doi.org/10.2139/ssrn.2442897)
+* [Peer-to-peer crowdfunding: Information and the potential for disruption in consumer lending (2015)](https://doi.org/10.1146/annurev-financial-111914-041939)
+* [Peer-to-peer lending: Opportunities and risks (2016)](doi:10.1017/S1867299X00010126)
+* [Is Crowdfunding Different? Evidence on the Relation between Gender and Funding Success from a German Peer-to-Peer Lending Platform (2019)](https://doi.org/10.1111/geer.12052)
+* [Crowdfunding innovations in emerging economies: Risk and credit control in peer-to-peer lending network platforms (2020)](https://doi.org/10.1002/jsc.2334)
 
 ## Donation-based Crowdfunding
-
+* [Donation-based crowdfunding as corporate social responsibility activities and financing (2018)](https://doi.org/10.1177/0306307017748125)
+* [Donate Time or Money? The Determinants of Donation Intention in Online Crowdfunding (2019)](https://doi.org/10.3390/su11164269)
+* [Mapping the Field of Donation-Based Crowdfunding for Charitable Causes: Systematic Review and Conceptual Framework (2020)](https://doi.org/10.1007/s11266-020-00213-w)
+  
 # Machine Learning Application
 
 # Sustainability
